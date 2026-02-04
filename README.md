@@ -1,8 +1,8 @@
-# MSV Labs (VIBESYS)
+# MSV Labs
 
 ### Building Intelligent Software for a Digital-First World
 
-**MSV Labs** (formerly VIBESYS) delivers scalable software products and technology services that empower businesses to grow, automate, and innovate. This repository contains the source code for the MSV Labs website, including enterprise-grade pages for Home, About Us, Services, Products, and Contact.
+**MSV Labs** delivers scalable software products and technology services that empower businesses to grow, automate, and innovate. This repository contains the source code for the MSV Labs website, including enterprise-grade pages for Home, About Us, Services, Products, and Contact.
 
 ## Technologies Used
 
