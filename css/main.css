@@ -63,6 +63,17 @@ h4,
   color: var(--text-dark) !important;
 }
 
+.navbar-logo {
+  height: 50px;
+  width: auto;
+  vertical-align: middle;
+}
+
+.footer-logo {
+  height: 100px;
+  width: auto;
+}
+
 .nav-link {
   color: var(--text-dark) !important;
   font-weight: 500;
