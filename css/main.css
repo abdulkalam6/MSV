@@ -55,7 +55,6 @@ h4,
 .navbar {
   background: white !important;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.05);
-  padding: 15px 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
@@ -276,6 +275,7 @@ h4,
     linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
   background-size: 40px 40px;
   z-index: 1;
+  pointer-events: none;
 }
 
 /* Reveal Animation */
